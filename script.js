@@ -73,7 +73,7 @@ if (contactForm) {
         because the Apps Script Web App has not yet been deployed.
         */
 
-        const backendURL = "";
+        const backendURL = "https://script.google.com/macros/s/AKfycbyyqnZmoTi_7HrlHKWPz8P4CwC9zRJn2TjiJxUZ2CZi_95Gw2izW0CRDkZRqVVbFVYt/exec";
 
 
         // Collect form information
